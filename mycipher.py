@@ -25,5 +25,5 @@ def main():
     cipher = caesar(plaintext, shift)
     format_blocks(cipher)
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
